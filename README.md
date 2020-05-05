@@ -1,2 +1,2 @@
-# Hello Github!
+# Hello GitHub!
 I'm a student at IPB University.
