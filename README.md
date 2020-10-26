@@ -1,2 +1,2 @@
 # Hello GitHub!
-Happy to make something great with </> 
+*"Focus on the good the good gets better"*
