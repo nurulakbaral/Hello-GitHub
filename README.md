@@ -1,2 +1,3 @@
-# Hello GitHub!
-*"Focus on the good the good gets better"*
+### Hi👋
+
+*🌱 I'm passionate about JavaScript, React, and React Native.*
