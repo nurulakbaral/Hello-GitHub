@@ -1,3 +1,3 @@
 ### Hi👋
 
-*🌱 I'm passionate about JavaScript, React, and React Native.*
+*🌱 I'm passionate about TypeScript, JavaScript, and React*
