@@ -1,3 +1,3 @@
 ### Hi👋
 
-*🌱 I'm passionate about TypeScript, JavaScript, and React*
+*🌱 I'm passionate about JavaScript & Web*
